@@ -1,0 +1,107 @@
+.it-header-wrapper .it-header-slim-wrapper {
+background: #367429;
+}
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content a {
+color: #000000;
+}
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content .modal a {
+color: #0000EE;
+}
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content a .icon {
+fill: #000000;
+}
+
+.it-header-wrapper .it-header-center-wrapper {
+background-color: #367429!important;
+}
+
+.it-header-center-wrapper .it-header-center-content-wrapper .it-brand-wrapper a {
+color: #000000;
+}
+
+.it-header-wrapper .it-header-navbar-wrapper {
+background: #367429;
+}
+
+.navbar .navbar-collapsable .navbar-nav li a.nav-link {
+color: #FFFFFF;
+}
+
+.navbar .navbar-collapsable .navbar-nav li a.nav-link.dropdown-toggle svg {
+fill: #FFFFFF;
+}
+
+.it-header-wrapper .it-header-navbar-wrapper .custom-navbar-toggler svg
+{
+fill: #000000;
+}
+
+
+
+/*==========================================*/
+/* Sezione Footer */
+/*==========================================*/
+
+.it-footer .it-footer-main {
+background-color: #367429;
+}
+
+.it-footer-main
+{
+font-family: "Titillium Web"!important;
+color: #FFFFFF;
+}
+
+.it-footer-main h3{
+color: #FFFFFF;
+}
+
+.it-footer-main a{
+color: #FFFFFF;
+}
+
+
+/*==========================================*/
+/* Login / Social */
+/*==========================================*/
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content .header-slim-right-zone .it-access-top-wrapper button {
+background: #367429;
+color: #000000;
+}
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content .header-slim-right-zone .it-access-top-wrapper input {
+background: #367429;
+color: #000000;
+}
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content .header-slim-right-zone .it-access-top-wrapper button:hover {
+background: #367429;
+}
+
+.it-header-slim-wrapper .it-header-slim-wrapper-content .header-slim-right-zone .link-list-wrapper ul li a span {
+color: #333;
+}
+
+.it-nav-wrapper .it-header-center-wrapper .it-header-center-content-wrapper .it-right-zone {
+color: #000000;
+}
+
+.it-nav-wrapper .it-header-center-wrapper .it-header-center-content-wrapper .it-right-zone .it-socials ul .icon {
+fill: #000000;
+}
+
+.it-nav-wrapper .it-header-center-wrapper .it-header-center-content-wrapper .it-right-zone .it-socials ul li a:hover .icon {
+fill: #367429;
+}
+
+img.avatar-profile {
+border: 2px solid #367429;
+}
+
+it-footer-small-prints {
+    fill: #000000;
+}
